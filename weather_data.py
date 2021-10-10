@@ -3,8 +3,8 @@ from pyowm.utils.config import get_default_config
 
 config_dict = get_default_config()
 config_dict['language'] = 'ru'
-
-owm = OWM('c3232b5e4b7ccbe150f5d751b0f96f41', config_dict)
+#TOKEN OWM
+owm = OWM('use your own token here', config_dict)
 
 reg = owm.geocoding_manager()
 

@@ -1,2 +1,3 @@
 
-TOKEN = '1962154635:AAEL6dIw2UEQ9YYMRpIQ3ng17MXcJzFTYp8'
+#TOKEN from FatherBot in Telegram
+TOKEN = 'Use your own TOKEN here'
